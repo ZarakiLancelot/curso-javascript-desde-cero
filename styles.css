@@ -1,0 +1,39 @@
+body {
+  font-family: system-ui, sans-serif;
+  padding: 2rem;
+  line-height: 1.5;
+}
+h1,
+h2 {
+  margin: 0 0 0.75rem;
+}
+.card {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  border: 1px solid #E5E5E5;
+  border-radius: 0.5rem;
+}
+label {
+  font-size: 0.9rem;
+  color: #555;
+  margin-right: 0.5rem;
+}
+input {
+  padding: 0.4rem 0.6rem;
+  margin-right: 0.5rem;
+}
+button {
+  padding: 0.5rem 1rem;
+  border: 1px solid #CCC;
+  background: #FAFAFA;
+  cursor: pointer;
+  border-radius: 0.4rem;
+}
+button:hover {
+  background: #F2F2F2;
+}
+.hint {
+  color: #888;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.85rem;
+}
